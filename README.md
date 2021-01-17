@@ -8,7 +8,7 @@
  - In love with: **[@Timeraa](https://github.com/Timeraa) ❤️**
  
 # what do I do?
- - lying in bed
+ - laying in bed
  - being a stupid coder
  - trying to improve my coding skills
  - working on [michiru](https://michiruland.com/)
